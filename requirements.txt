@@ -1,0 +1,25 @@
+# Run Jupyter notebook
+ipykernel
+
+# Data wrangling
+pandas
+
+# Data visualization
+plotly
+seaborn
+matplotlib
+
+# Machine learning
+scikit-learn
+
+# PDF utils
+PyPDF2
+reportlab
+
+# NLP
+datasets
+evaluate
+transformers[sentencepiece]
+
+# Deep learning
+# Note please install PyTorch: https://pytorch.org/get-started/locally/
