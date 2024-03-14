@@ -1,0 +1,4 @@
+datasets
+evaluate
+transformers[sentencepiece]
+ipykernel
